@@ -1,0 +1,35 @@
+[
+  {
+    "id": "6825db212a326e7ac78bbc05",
+    "imageUrl": "/files/achievement/Standard_23.png",
+    "assetPath": "",
+    "rewards": [],
+    "conditions": {
+      "availableForFinish": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Skill",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "6825db455ceb60a7efd59b1b",
+          "index": 0,
+          "parentId": "",
+          "target": "Attention",
+          "value": 5,
+          "visibilityConditions": []
+        }
+      ],
+      "fail": []
+    },
+    "instantComplete": false,
+    "showNotificationsInGame": true,
+    "showProgress": true,
+    "prefab": "",
+    "rarity": "Common",
+    "hidden": false,
+    "showConditions": false,
+    "progressBarEnabled": true,
+    "side": "Pmc",
+    "index": 99999
+  }
+]
